@@ -1,2 +1,3 @@
-# kit-mobile-phone
-手机归属地查询
+# kit-query
+
+一些数据查一查，练一练
